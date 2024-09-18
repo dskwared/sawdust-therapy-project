@@ -1,0 +1,5 @@
+line 20 
+
+client
+  .getEntries({ content_type: 'tools' })
+  .then((response) => console.log(response))
