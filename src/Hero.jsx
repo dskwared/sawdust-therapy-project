@@ -5,7 +5,7 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-center">
         <div className="hero-title">
-          <h1>Sawdust Therapy Woodworking</h1>
+          <h1>Welcome!</h1>
           <p>Welcome to Sawdust Therapy Woodworking! We're glad you're here!</p>
         </div>
         <div className="img-container">
